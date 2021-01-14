@@ -1,0 +1,69 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(105, 105, 105);
+}
+.background-color {
+    background-color: #fbf7e7;
+    height: 650px;
+    margin-bottom: 10px;
+}
+.top {
+    margin-top: 20px !important;
+}
+.logo {
+    height: 33px;
+}
+.nav-list a {
+    margin-left: 50px;
+}
+.title-bar {
+    font-size: 65px;
+    font-weight: 600;
+}
+.subtitle {
+    width: 378px;
+    margin-bottom: 29px;
+    margin-top: 15px;
+}
+.image {
+    height: 322px;
+    width: 317px;
+}
+.border_radias {
+    border-radius: 20px !important;
+}
+.card-tx {
+    padding-left: 0px !important;
+}
+h4 {
+    color: rgb(34, 34, 68);
+}
+main {
+    margin-top: 216px;
+}
+.info-pic {
+    height: 80px;
+}
+.list-item  {
+    list-style: none;
+}
+.list-item a {
+    text-decoration: none;
+    list-style: none;
+    color: rgb(14, 14, 68)
+}
+@media(max-width:600px) {
+    .background-color {
+        background-color: #fbf7e7;
+        height: 800px;
+        margin-bottom: 0px;
+    }
+@media(max-width:600px) {
+    h2 {
+        text-align: center;
+    } 
+@media(max-width:600px) {
+    .banner-part {
+        background-color: #fbf7e7;
+        height: 540px;
+    }
